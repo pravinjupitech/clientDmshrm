@@ -1,0 +1,29 @@
+img.Compnaylogo {
+    height: 85px;
+    width: 220px;
+}
+.flexView{
+    font-size: 16px;
+}
+.font{
+    font-size: 18px; 
+}
+
+.textLeft{
+    text-align: left;
+}
+.textRight{
+    text-align: left;
+}
+@media screen and (max-width: 768px) {
+
+    .textRight{
+        text-align: left;
+    }
+  }
+
+  @media screen and (max-width: 576px) {
+    .textRight{
+        text-align: left;
+    }
+ }
